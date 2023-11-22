@@ -22,8 +22,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: RAVIVARMAN G S
+### Register Number: 23006420
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
